@@ -1,0 +1,20 @@
+# exclude idea folders/files
+.idea
+.idea/
+.idea/**
+**/.idea/
+**.idea/**
+
+# exclude gradle folders/files
+.gradle
+.gradle/
+.gradle/**
+
+gradle
+gradle/
+gradle/**
+
+# exclude build folders/files
+build
+build/
+build/**
